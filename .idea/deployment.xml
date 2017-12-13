@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="lamp">
+    <serverData>
+      <paths name="lamp">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/PhPstormProjects/" local="$PROJECT_DIR$" web="/PhpstormProjects/progexam_1_3sem" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
